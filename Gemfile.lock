@@ -277,10 +277,12 @@ PLATFORMS
 
 DEPENDENCIES
   hello_world!
+  importmap-rails
   puma
   rubocop-rails-omakase
   sprockets-rails
   sqlite3
+  stimulus-rails
 
 BUNDLED WITH
    2.6.4
